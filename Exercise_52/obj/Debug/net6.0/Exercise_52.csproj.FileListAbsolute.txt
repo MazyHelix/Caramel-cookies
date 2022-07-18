@@ -1,0 +1,15 @@
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/bin/Debug/net6.0/Exercise_52
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/bin/Debug/net6.0/Exercise_52.deps.json
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/bin/Debug/net6.0/Exercise_52.runtimeconfig.json
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/bin/Debug/net6.0/Exercise_52.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/bin/Debug/net6.0/Exercise_52.pdb
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.csproj.AssemblyReference.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.AssemblyInfoInputs.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.AssemblyInfo.cs
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.csproj.CoreCompileInputs.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/refint/Exercise_52.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.pdb
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/Exercise_52.genruntimeconfig.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_52/obj/Debug/net6.0/ref/Exercise_52.dll
