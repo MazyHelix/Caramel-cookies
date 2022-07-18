@@ -1,0 +1,15 @@
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.csproj.AssemblyReference.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.AssemblyInfoInputs.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.AssemblyInfo.cs
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.csproj.CoreCompileInputs.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/bin/Debug/net6.0/Exercise_50
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/bin/Debug/net6.0/Exercise_50.deps.json
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/bin/Debug/net6.0/Exercise_50.runtimeconfig.json
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/bin/Debug/net6.0/Exercise_50.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/bin/Debug/net6.0/Exercise_50.pdb
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/refint/Exercise_50.dll
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.pdb
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/Exercise_50.genruntimeconfig.cache
+/Users/lidiavolkova/Desktop/C# Homework/Exercise_50/obj/Debug/net6.0/ref/Exercise_50.dll
